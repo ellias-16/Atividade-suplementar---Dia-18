@@ -1,3 +1,5 @@
+# Aluno: Elias Victor
+
 defmodule GuessingGame do
 
   def compare(_secret_number, guess \\  :no_guess) 
