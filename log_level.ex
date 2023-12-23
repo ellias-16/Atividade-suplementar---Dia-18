@@ -1,3 +1,5 @@
+# Aluno: Elias Victor
+
 defmodule LogLevel do
   def to_label(level, legacy?) do
     cond do
